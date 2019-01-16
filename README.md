@@ -33,7 +33,7 @@
 npm run web-start
 ```
 
-![html5](../res/images/fp-html5.gif)
+![html5](https://github.com/crixusshen/fp-shopping-cart-demo/blob/master/res/images/fp-html5.gif)
 
 > 浏览器访问地址：http://localhost:8080/pages/index/web.html
 
@@ -45,4 +45,4 @@ npm run web-start
 npm run app-build
 ```
 
-![fp](../res/images/fp-app.gif)
+![fp](https://github.com/crixusshen/fp-shopping-cart-demo/blob/master/res/images/fp-app.gif)
