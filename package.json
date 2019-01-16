@@ -1,0 +1,19 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "fast-program init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "web-start": "fp-cli --config ./app.json --env dev --target web",
+    "web-build": "fp-cli --config ./app.json --env prod --target web",
+    "app-start": "fp-cli --config ./app.json --env dev --target app",
+    "app-build": "fp-cli --config ./app.json --env prod --target app"
+  },
+  "author": "MR.FP",
+  "license": "ISC",
+  "dependencies": {
+    "fp-base": "^0.0.5",
+    "fp-cli-tool": "^0.0.5"
+  }
+}
