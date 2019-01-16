@@ -33,6 +33,8 @@
 npm run web-start
 ```
 
+![html5](../res/images/fp-html5.gif)
+
 > 浏览器访问地址：http://localhost:8080/pages/index/web.html
 
 #### 双线程模式
@@ -42,3 +44,5 @@ npm run web-start
 ```javascript
 npm run app-build
 ```
+
+![fp](../res/images/fp-app.gif)
