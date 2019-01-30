@@ -13,7 +13,7 @@
   "author": "MR.FP",
   "license": "ISC",
   "dependencies": {
-    "fp-base": "^0.0.5",
-    "fp-cli-tool": "^0.0.5"
+    "fp-base": "0.0.5",
+    "fp-cli-tool": "0.0.5"
   }
 }
